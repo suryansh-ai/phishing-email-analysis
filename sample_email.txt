@@ -1,5 +1,5 @@
 From: Amazon Security <support@secure-amaz0n.com>
-To: victim@example.com
+To: harrycode123@gmail.com
 Subject: Urgent Action Required – Your Amazon Account is Suspended!
 
 Dear Customer,
@@ -8,7 +8,7 @@ We have detected suspicious activity in your Amazon account. For your protection
 
 To restore access, please confirm your identity immediately by clicking the link below:
 
-👉 https://amaz0n-verification.com/login
+https://amaz0n-verification.com/login
 
 If you do not verify within 24 hours, your account will be permanently disabled.
 
