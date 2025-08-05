@@ -1,11 +1,11 @@
-# 🛡️ Phishing Email Analysis Report
+# Phishing Email Analysis Report
 
-## 📌 Task Objective
+## Task Objective
 To analyze a suspicious email and identify phishing indicators such as email spoofing, mismatched URLs, urgent language, and header anomalies.
 
 ---
 
-## 📧 Sample Phishing Email Summary
+## Sample Phishing Email Summary
 
 **Subject:** Urgent Action Required – Your Amazon Account is Suspended!  
 **Sender Email:** support@secure-amaz0n.com  
@@ -14,20 +14,20 @@ To analyze a suspicious email and identify phishing indicators such as email spo
 
 ---
 
-## 🕵️‍♂️ Phishing Indicators Found
+## Phishing Indicators Found
 
 | Indicator Type         | Details                                                                 |
 |------------------------|-------------------------------------------------------------------------|
-| 📬 **Spoofed Email**    | Email mimics Amazon but has a suspicious domain                        |
-| 🔗 **Mismatched Link**  | Text shows legitimate domain but points to phishing site               |
-| 🧾 **Malicious Intent** | Link attempts to steal login credentials                                |
-| 📢 **Urgent Language**  | "Your account will be permanently disabled!"                           |
-| ✍️ **Spelling Errors**  | Minor grammar and format inconsistencies                               |
-| 🧠 **Social Engineering** | Tries to scare user into clicking the link immediately                 |
+| **Spoofed Email**    | Email mimics Amazon but has a suspicious domain                        |
+| **Mismatched Link**  | Text shows legitimate domain but points to phishing site               |
+| **Malicious Intent** | Link attempts to steal login credentials                                |
+| **Urgent Language**  | "Your account will be permanently disabled!"                           |
+| **Spelling Errors**  | Minor grammar and format inconsistencies                               |
+| **Social Engineering** | Tries to scare user into clicking the link immediately                 |
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool                  | Purpose                            | Link                                             |
 |-----------------------|------------------------------------|--------------------------------------------------|
@@ -36,12 +36,12 @@ To analyze a suspicious email and identify phishing indicators such as email spo
 
 ---
 
-## 🧪 Email Header Analysis
+## Email Header Analysis
 
 **Tool Used:** MXToolbox  
 **Findings:**
-- SPF Check: ❌ Failed  
-- DKIM: ❌ Not present  
+- SPF Check: Failed  
+- DKIM: Not present  
 - Return Path: Doesn't match sender domain  
 - Source IP: Located in suspicious country
 
@@ -53,13 +53,13 @@ To analyze a suspicious email and identify phishing indicators such as email spo
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The analyzed email contains multiple indicators of phishing. It is likely crafted to trick the recipient into revealing credentials or installing malware.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 phishing-email-analysis/
@@ -74,7 +74,7 @@ phishing-email-analysis/
 
 ---
 
-## ✍️ Created By
+## Created By
 
 **Name:** Suryansh Pandey
 
